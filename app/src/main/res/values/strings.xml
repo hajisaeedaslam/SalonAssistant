@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="signin_with_google">Signin With Google</string>
+    <string name="textview">TextView</string>
+    <string name="welcome_to">Welcome To</string>
+    <string name="salon_assistant">Salon Assistant</string>
+    <string name="click_on_button_to_login_with_your_google_account" />
+</resources>
